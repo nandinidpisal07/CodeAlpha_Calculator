@@ -98,11 +98,11 @@ gcc main.c ui.c operations.c -o calculator.exe -lm
 
 ### Addition
 
-![Addition](screenshots/addition.png)
+![Addition](screenshots/Addition.png)
 
 ### Exit
 
-![Exit](screenshots/exit.png)
+![Exit](screenshots/Exit.png)
 
 ---
 
