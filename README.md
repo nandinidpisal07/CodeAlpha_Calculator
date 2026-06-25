@@ -92,14 +92,17 @@ gcc main.c ui.c operations.c -o calculator.exe -lm
 
 # 📸 Screenshots
 
-Add your screenshots inside the **screenshots** folder.
+### Main Menu
 
-Recommended screenshots:
+![Main Menu](screenshots/main-menu.png)
 
-* Main Menu
-* Addition Operation
-* Division Operation
-* Exit Screen
+### Addition
+
+![Addition](screenshots/addition.png)
+
+### Exit
+
+![Exit](screenshots/exit.png)
 
 ---
 
